@@ -60,13 +60,6 @@ Salut ! 👋 Je suis **Paul Roy**, un **développeur fullstack junior** passionn
 
 ---
 
-## 📈 Statistiques GitHub :
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulroy&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulroy&layout=compact&theme=default)
-
----
-
 ## 🌱 Actuellement en apprentissage :
 
 - 🚀 **Approfondissement de Next.js 14** avec App Router et Server Components
