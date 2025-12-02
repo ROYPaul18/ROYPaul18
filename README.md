@@ -71,10 +71,10 @@ Salut ! 👋 Je suis **Paul Roy**, un **développeur fullstack junior** passionn
 
 ## 🎓 Parcours :
 
-- **2021-2024** : BUT MMI - Développement Web & Dispositifs Interactifs
-- **2024** : Stage développement web - Laboratoire LIFAT Université de Blois
-- **2024-2025** : Développeur Web Freelance (projets clients)
 - **2025** : Développement projet personnel fullstack (Travya)
+- **2024-2025** : Développeur Web Freelance (projets clients)
+- **2024** : Stage développement web - Laboratoire LIFAT Université de Blois
+- **2021-2024** : BUT MMI - Développement Web & Dispositifs Interactifs
 
 ---
 
